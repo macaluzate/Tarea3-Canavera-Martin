@@ -23,4 +23,5 @@ A continuación se presenta la lista de módulos necesarios y sus propósitos en
 * **ipywidgets:** Para crear controles interactivos en Jupyter Notebook y mejorar la visualización de resultados.
   
 
-![]([https://i0.wp.com/mathwithbaddrawings.com/wp-content/uploads/2017/05/20161031143242_00005-e1495635818490.jpg?resize=1100%2C606&ssl=1](https://i0.wp.com/mathwithbaddrawings.com/wp-content/uploads/2018/05/intro-1.jpg?resize=508%2C374&ssl=1))
+![Diagrama divertido sobre matemáticas](https://i0.wp.com/mathwithbaddrawings.com/wp-content/uploads/2018/05/intro-1.jpg?resize=508%2C374&ssl=1)
+
