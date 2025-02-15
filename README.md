@@ -1,5 +1,3 @@
-# Tarea3-Canavera-Martin
-
 # ☕Sloshing in coffee as a pumped pendulum🫖
 <span style="font-size: 24px;"></span>
 _____________________________
