@@ -7,8 +7,8 @@ Este proyecto tiene como objetivo analizar y evaluar un modelo matemático no li
 
 Se implementaron diferentes métodos numéricos para resolver el sistema de ecuaciones diferenciales utilizando Python, específicamente con la función solve_ivp. Además, se realizaron experimentos numéricos variando parámetros clave y se analizaron los efectos en el comportamiento del sistema.
 
+![Sloshing en café](https://cdn.pixabay.com/photo/2017/01/12/02/34/coffee-1973549_1280.jpg)
 
-![](https://cdn.pixabay.com/photo/2017/01/12/02/34/coffee-1973549_1280.jpg)
 
 
 
